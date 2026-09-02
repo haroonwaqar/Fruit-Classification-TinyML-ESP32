@@ -1,0 +1,7 @@
+.DS_Store
+.ipynb_checkpoints
+/dataset_Fruits
+.vscode
+verification.py
+.env
+/fruit_saved_model
